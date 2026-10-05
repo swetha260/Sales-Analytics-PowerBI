@@ -12,18 +12,6 @@ The goal was to transform raw transactional sales data into an interactive busin
 
 ---
 
-## 🖼️ Dashboard Preview
-
-### Sales Overview
-
-![Sales Overview](sales-overview.png)
-
-### Performance Analysis
-
-![Performance Analysis](performance-analysis.png)
-
----
-
 ## 📈 Key KPIs
 
 - **Total Sales:** ₹987M
